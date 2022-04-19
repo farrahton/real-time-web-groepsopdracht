@@ -15,7 +15,7 @@ document.querySelector('form').addEventListener('submit', event => {
 socket.on('message', message => {
   var elem = document.createElement('img');
   var characters  = document.querySelector("#characters");
-  var character = new Array ("/images/amongus.webp", "/images/charmander.png", "/images/dino.png", "/images/dory.png", "/images/flappy.png", "/images/iron.png", "/images/kirby.png", "/images/link.png", "/images/minecraft.webp", "/images/kirby.png", "/images/minion.png", "/images/pacman.png", "/images/perry.png", "/images/rainbowcat.png", "/images/rat.png", "/images/ray.webp", "/images/sonic.png", "/images/stitch.png")
+  var character = new Array ("/images/amongus.webp", "/images/charmander.png", "/images/dino.png", "/images/dory.png", "/images/flappy.png", "/images/iron.png", "/images/kirby.png", "/images/link.png", "/images/minecraft.webp", "/images/kirby.png", "/images/minion.png", "/images/pacman.png", "/images/perry.png", "/images/rainbowcat.png", "/images/rat.png", "/images/ray.webp", "/images/sonic.png", "/images/stitch.png", "/images/mushu.png", "/images/yoda.png", "/images/pucca.png")
   var randomize = Math.floor(Math.random() * character.length);
   elem.src = character[randomize];
   characters.appendChild(elem);
