@@ -11,6 +11,7 @@ const port = process.env.PORT || 4242
 app.use(express.static(path.resolve('public')))
 
 io.on('connection', (socket) => {
+  pickCharacter()
   console.log('a user connected')
 
   socket.on('message', (message) => {

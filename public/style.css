@@ -37,7 +37,6 @@ section ul {
   list-style-type: none;
   flex-grow: 2;
   /* width: 18em; */
-  /* overflow-x: scroll; */
   overflow-y: scroll;
   text-align: left;
   word-wrap: break-word;

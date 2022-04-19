@@ -1,17 +1,18 @@
 # real-time-web-groepsopdracht
 
 ## To do list
-- [ ] Underground level statiche
-- [ ] Chat functie rechter kant toevoegen
-- [ ] Poppetjes afbeeldingen zoeken
-- [ ] Popetjes tonen per gebruiker
-- [ ] Poppetje links en rechts laten bewegen automatich
+- [ x ] Underground level statiche
+- [ x ] Chat functie rechter kant toevoegen
+- [ x ] Poppetjes afbeeldingen zoeken
+- [ ] Poppetjes tonen per gebruiker
+- [ ] Poppetje automatisch links en rechts laten bewegen
+- [ ] Poppetje flippen
 - [ ] Deploy on Heroku
 
 ## Extra
 - [ ] Praat ballonetje
 - [ ] Username
-- [ ] Eigen popetje laten lopen
+- [ ] Eigen poppetje laten lopen
 
 ## Bronnen
 https://www.youtube.com/watch?v=fTRFFLxobKE
