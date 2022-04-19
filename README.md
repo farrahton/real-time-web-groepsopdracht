@@ -4,7 +4,7 @@
 - [ x ] Underground level statiche
 - [ x ] Chat functie rechter kant toevoegen
 - [ x ] Poppetjes afbeeldingen zoeken
-- [ ] Poppetjes tonen per gebruiker
+- [ x ] Poppetjes tonen na het typen
 - [ ] Poppetje automatisch links en rechts laten bewegen
 - [ ] Poppetje flippen
 - [ ] Deploy on Heroku
