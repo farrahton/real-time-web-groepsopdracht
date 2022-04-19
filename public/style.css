@@ -307,3 +307,22 @@ body {
     background-position: 31em;
   }
 }
+
+div#caracters div:first-child {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  position: fixed;
+  bottom: 7em;
+  -webkit-animation-name: run;
+  -webkit-animation-duration: 5s;
+}
+
+ @-webkit-keyframes run {
+  0% {
+    left: 0%;
+  }
+  100% {
+    left: 80%;
+  }
+}
