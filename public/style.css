@@ -178,7 +178,7 @@ body {
 
 .buttonPipe {
   height: 70px;
-  left: 90%;
+  right: 0%;
   position: fixed;
   top: 83%;
   width: 55px;
