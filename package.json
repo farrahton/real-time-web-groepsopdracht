@@ -23,6 +23,7 @@
   "homepage": "https://github.com/ju5tu5/barebonechat#readme",
   "dependencies": {
     "express": "^4.17.3",
+    "fs": "^0.0.1-security",
     "socket.io": "^4.0.0"
   }
 }
