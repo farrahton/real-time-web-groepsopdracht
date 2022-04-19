@@ -1,2 +1,7 @@
-# barebonechat
-It's a barebone chat app used as an example in a course on realtime web apps.
+# real-time-web-groepsopdracht
+
+## To do list
+- [ ] Serving static files(input veld)
+- [ ] Implement socket.io (live connectie)
+- [ ] Styling website 
+- [ ] Deploy on Heroku
