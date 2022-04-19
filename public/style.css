@@ -308,12 +308,12 @@ body {
   }
 }
 
-div#caracters div:first-child {
-  background-color: red;
-  width: 100px;
+div#characters img {
+  /* background-color: red; */
+  /* width: 100px; */
   height: 100px;
   position: fixed;
-  bottom: 7em;
+  bottom: 4em;
   -webkit-animation-name: run;
   -webkit-animation-duration: 5s;
 }
